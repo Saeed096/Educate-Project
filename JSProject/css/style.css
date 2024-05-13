@@ -1,0 +1,22 @@
+.text-color{
+    color: #002F5F;
+}
+.btn-bg-color{
+background-color:#049DD9  ;
+color: white;
+}
+
+.login_btn:hover{
+    background-color: white !important;
+    color: #002F5F !important;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 991px) {
+    #log_img {
+        display: none;
+    }
+} 
